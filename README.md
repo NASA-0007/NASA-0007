@@ -9,5 +9,5 @@ NASA-0007/NASA-0007 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NASA-0007&theme=vision-friendly-dark)
-[![Spotify](https://nasa-0007.vercel.app/api/spotify)]
-(https://open.spotify.com/user/u8v0c91qepmimnlyjksh5o7ts)
+[![Spotify](https://nasa-0007.vercel.app/api/spotify)](https://open.spotify.com/user/u8v0c91qepmimnlyjksh5o7ts)
+[<src="https://spotify-one-snowy.vercel.app/api/tpotify-playing" alt="codeSTACKr Spotify Playing" width="350" />] (https://open.spotify.com/user/u8v0c91qepmimnlyjksh5o7ts)
