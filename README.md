@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on: Nothing for Now
-- 📫 How to reach me Instagram id @____.____nasa___.____
+- 📫 How to reach me Instagram id @_._nasa_._
 
 <!---
 NASA-0007/NASA-0007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
