@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AV Navneeth Sagar
+- 👋 Hi, I’m @Navneeth Sagar
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on: Nothing for Now
