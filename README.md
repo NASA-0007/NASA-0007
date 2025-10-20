@@ -5,7 +5,7 @@
 
 ---
 
-### 🎧 [ben-24-0 ](https://github.com/ben-24-0)Last seen Playing:
+### 🎧 Last seen Playing:
 [![Spotify](https://spotify-stats-exvttm3rg-nasa-0007.vercel.app/api/spotify)](https://open.spotify.com/user/u8v0c91qepmimnlyjksh5o7ts)
 
 ---
