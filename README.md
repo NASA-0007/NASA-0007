@@ -6,11 +6,6 @@
 
 ---
 
-### 🎧 Last seen Playing:
-[![Spotify](https://spotify-stats-exvttm3rg-nasa-0007.vercel.app/api/spotify)](https://open.spotify.com/user/u8v0c91qepmimnlyjksh5o7ts)
-
----
-
 ### 🛠️ Tools & Technologies
 
 <p align="center">
@@ -38,3 +33,8 @@
 ### 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NASA-0007&color=blueviolet&style=flat)
+
+---
+
+### 🎧 Last seen Playing:
+[![Spotify](https://spotify-stats-exvttm3rg-nasa-0007.vercel.app/api/spotify)](https://open.spotify.com/user/u8v0c91qepmimnlyjksh5o7ts)
