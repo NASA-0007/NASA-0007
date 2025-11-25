@@ -22,14 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NASA-0007&theme=vision-friendly-dark&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NASA-0007&layout=compact&theme=vision-friendly-dark)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=NASA-0007&theme=vision-friendly-dark&hide_border=false)](https://git.io/streak-stats)
-
----
-
 ### 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NASA-0007&color=blueviolet&style=flat)
