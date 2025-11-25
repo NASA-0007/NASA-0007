@@ -2,7 +2,7 @@
 
 🎮 Gaming Enthusiast  
 🖨️ 3D Printing Enthusiast
-📫 Reach me on [Instagram](https://instagram.com/_._nasa_._)
+
 
 ---
 
